@@ -25,9 +25,11 @@ what we are actually doing is calling `def ==(secret)` method like this:
 ```ruby
   @user.password==(params[:password]). 
 ```
-This `def ==(secret)` method takes params[:password] (the password that a user typed in to a log in form), runs it through the hashing algorithm to create a hash, and compares this new hash to the password_hash. If they match the `def ==(secret)` method returns true.
+This `def ==(secret)` method takes params[:password] (the password that a user submitted when signing in), runs it through the hashing algorithm to create a hash, and compares this new hash to the password_hash. If they match, `def ==(secret)` returns true.
 
-Pretty cool, huh? You can take a closer look at `def ==(secret)` in the [Bcrypt gem](https://github.com/codahale/bcrypt-ruby) in this file: `bcrypt-ruby/lib/bcrypt/password.rb`
+Pretty cool, huh? 
+
+You can take a closer look at `def ==(secret)` in the [Bcrypt gem](https://github.com/codahale/bcrypt-ruby) in this file: `bcrypt-ruby/lib/bcrypt/password.rb`
 
 
 
