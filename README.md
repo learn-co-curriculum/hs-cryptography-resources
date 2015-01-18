@@ -35,7 +35,7 @@ Check out the "More Information" section of the Bcrypt README for links to more 
 
 ### Public Key Cryptography
 
-Every time you push your code up to Github you are taking advantage of public key cryptography. Check out this video for an explanation on how this works: https://www.youtube.com/watch?v=3QnD2c4Xovk&feature=plcp
+Every time you push your code up to Github you are taking advantage of public key cryptography. Check out this video for an explanation on how that works: https://www.youtube.com/watch?v=3QnD2c4Xovk&feature=plcp
 
 ### Learn More About Cryptography
 
