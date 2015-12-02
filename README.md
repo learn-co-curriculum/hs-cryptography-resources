@@ -39,3 +39,5 @@ Like the style of that last video? Check out Brit Cruise's [Cryptography course 
 You can get a full history of cryptography by starting at [Ancient Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/intro-to-cryptography) section.
 
 Or take the fast track to understanding how public key cryptography works with [Modern Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/the-fundamental-theorem-of-arithmetic-1).
+
+<a href='https://learn.co/lessons/hs-cryptography-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
