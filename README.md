@@ -40,4 +40,4 @@ You can get a full history of cryptography by starting at [Ancient Cryptography]
 
 Or take the fast track to understanding how public key cryptography works with [Modern Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/the-fundamental-theorem-of-arithmetic-1).
 
-<a href='https://learn.co/lessons/hs-cryptography-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-cryptography-resources' title='Cryptography Resources'>Cryptography Resources</a> on Learn.co and start learning to code for free.</p>
